@@ -1,0 +1,9 @@
+.caixa1 {
+  height: 500px;
+  width: 100%;
+  background-color: black;
+}
+
+.caixa1 p {
+  color: azure;
+}

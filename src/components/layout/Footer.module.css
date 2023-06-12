@@ -1,0 +1,32 @@
+.footer {
+  background-color:rgb(41, 41, 41);
+  color:azure;
+  padding: 2em;
+  text-align: center;
+}
+
+.social_list {
+  display: flex;
+  list-style-type: none;
+  justify-content: center;
+}
+
+.social_list a li {
+  margin: 0 1em;
+  color:azure;
+}
+
+.social_list li:hover {
+  display: flex;
+  color:rgb(154, 196, 196);
+  zoom: 120%;
+}
+
+.social_list svg {
+  font-size: 1.5em;
+  cursor: pointer;
+}
+
+ul {
+  padding-inline-start: 0;
+}
