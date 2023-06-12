@@ -8,7 +8,6 @@ function Home () {
       <div className={styles.caixa1}>
         <p>ALOOOOOOO</p>
         <p>ALOOOOOOO</p>
-        <p>ALOOOOOOO</p>
       </div>
     </>
   )
