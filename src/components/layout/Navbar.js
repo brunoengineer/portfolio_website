@@ -19,6 +19,14 @@ function Navbar() {
     }
   }
 
+  const closeNavbar = () => {
+    if (window.innerWidth <= 1040) {
+      setClick(!click);
+    } else {
+      setClick(click);
+    }
+  }
+
   window.addEventListener("scroll", changeColor);
 
   return (
@@ -28,9 +36,9 @@ function Navbar() {
           <img className={styles.logo} src={logo} Alt="Portfolio" />
         </Link>
         <ul className={click ? `${styles.list2}` : `${styles.list}`}>
-          <li className={styles.item}><Link onClick={handleClick} to="/">Home</Link></li>
-          <li className={styles.item}><Link onClick={handleClick} to="/about">About</Link></li>
-          <li className={styles.item}><Link onClick={handleClick} to="/contact">Contact</Link></li>
+          <li className={styles.item}><Link onClick={closeNavbar} to="/">Home</Link></li>
+          <li className={styles.item}><Link onClick={closeNavbar} to="/about">About</Link></li>
+          <li className={styles.item}><Link onClick={closeNavbar} to="/contact">Contact</Link></li>
         </ul>
 
         <div className= {styles.hamburger} onClick={handleClick}>

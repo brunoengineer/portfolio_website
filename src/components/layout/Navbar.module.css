@@ -18,7 +18,7 @@
 .navbarBg {
   display: flex;
   justify-content: space-between;
-  background-color:rgba(41, 41, 41, 0.3);
+  background-color:rgba(41, 41, 41, 0.5);
   padding: 0.5em;
   position: fixed;
   width: 100%;
@@ -49,6 +49,7 @@
 .hamburger {
   display: none;
 }
+
 
 @media screen and (max-width: 1040px) {
   .list {
@@ -108,3 +109,4 @@
   }
 
 }
+

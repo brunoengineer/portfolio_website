@@ -1,9 +1,93 @@
 .caixa1 {
-  height: 500px;
+  height: 100%;
   width: 100%;
-  background-color: black;
+  background-color: rgb(255, 255, 255);
 }
 
-.caixa1 p {
-  color: azure;
+.caixa1 > h1 {
+  margin-top: 3rem;
+  margin-bottom: 0;
+  text-align: center;
+  font-size: 3rem;
+  padding: 0.6rem 0 0;
+}
+
+.caixa2 {
+  height: 600px;
+  width: 100%;
+  background-color: rgb(0, 0, 0);
+}
+
+.caixa2 > h1 {
+  color: rgb(255, 255, 255);;
+  margin-top: 3rem;
+  margin-bottom: 0;
+  text-align: center;
+  font-size: 3rem;
+  padding: 0.6rem 0 0;
+}
+
+.carrerMap {
+  width: 100%;
+}
+
+.skills {
+  padding: 50px 5px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.skillLogo {
+  padding: 10px;
+  height: 100px;
+  width: 100px;
+}
+
+/* BLACK AND WHITE HOVER EFFECT */
+.skills:hover .skillLogo:not(:hover) {
+  filter: grayscale(100%);
+  opacity: 0.75;
+}
+
+.skills:hover .skillLogo:not(:hover)::after {
+  background-color: rgba(#000, 0.5);
+}
+
+.skillLogo {
+  position: relative;
+  cursor: pointer;
+  transition: .3s;
+}
+
+.skillLogo::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(#000, 0);
+  transition: .3s;
+}
+
+.skillLogo img {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+}
+
+
+/* RESPONSIVE */
+@media screen and (max-width: 640px) {
+  .caixa1 > h1 {
+    font-size: 2rem;
+  }
+
+  .skillLogo {
+    padding: 8px;
+    height: 60px;
+    width: 60px;
+  }
 }
