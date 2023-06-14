@@ -2,10 +2,11 @@
   height: 100%;
   width: 100%;
   background-color: rgb(255, 255, 255);
+  text-align: center;
 }
 
 .caixa1 > h1 {
-  margin-top: 3rem;
+  margin-top: 2rem;
   margin-bottom: 0;
   text-align: center;
   font-size: 3rem;
@@ -13,9 +14,9 @@
 }
 
 .caixa2 {
-  height: 600px;
+  min-height: 600px;
   width: 100%;
-  background-color: rgb(0, 0, 0);
+  background-color: rgb(0, 0, 10);
 }
 
 .caixa2 > h1 {
@@ -27,8 +28,21 @@
   padding: 0.6rem 0 0;
 }
 
+.caixa2 > p {
+  display:flex;
+  font-size: 20px;
+  padding: 0 15vw 5vh;
+  color: azure;
+  text-align: center;
+}
+
 .carrerMap {
   width: 100%;
+}
+
+.carrerMap2 {
+  display: none;
+  width: 80vw;
 }
 
 .skills {
@@ -78,6 +92,10 @@
   max-width: 100%;
 }
 
+.skillLogo:hover {
+  display: block;
+}
+
 
 /* RESPONSIVE */
 @media screen and (max-width: 640px) {
@@ -85,9 +103,39 @@
     font-size: 2rem;
   }
 
+  .caixa2 {
+    min-height: 400px;
+  }
+
+  .skills {
+    padding-top: 20px;
+    padding-bottom: 10px;
+  }
+
   .skillLogo {
     padding: 8px;
     height: 60px;
     width: 60px;
+  }
+
+  .caixa2 > p {
+    display:flex;
+    font-size: 16px;
+    padding: 0 5vw 5vh;
+    color: azure;
+    text-align: center;
+  }
+}
+
+@media screen and (max-width: 900px) {
+
+  .carrerMap {
+    display: none;
+    width: 100%;
+  }
+  
+  .carrerMap2 {
+    display: flex;
+    width: 90vw;
   }
 }
