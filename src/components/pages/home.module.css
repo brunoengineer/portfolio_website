@@ -1,18 +1,3 @@
-.caixa1 {
-  height: 100%;
-  width: 100%;
-  background-color: rgb(255, 255, 255);
-  text-align: center;
-}
-
-.caixa1 > h1 {
-  margin-top: 2rem;
-  margin-bottom: 0;
-  text-align: center;
-  font-size: 3rem;
-  padding: 0.6rem 0 0;
-}
-
 .caixa2 {
   min-height: 600px;
   width: 100%;
@@ -34,15 +19,6 @@
   padding: 0 15vw 5vh;
   color: azure;
   text-align: center;
-}
-
-.carrerMap {
-  width: 100%;
-}
-
-.carrerMap2 {
-  display: none;
-  width: 80vw;
 }
 
 .skills {
@@ -99,10 +75,6 @@
 
 /* RESPONSIVE */
 @media screen and (max-width: 640px) {
-  .caixa1 > h1 {
-    font-size: 2rem;
-  }
-
   .caixa2 {
     min-height: 400px;
   }
@@ -124,18 +96,5 @@
     padding: 0 5vw 5vh;
     color: azure;
     text-align: center;
-  }
-}
-
-@media screen and (max-width: 900px) {
-
-  .carrerMap {
-    display: none;
-    width: 100%;
-  }
-  
-  .carrerMap2 {
-    display: flex;
-    width: 90vw;
   }
 }

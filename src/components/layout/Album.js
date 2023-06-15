@@ -10,12 +10,10 @@ import Container from '@mui/material/Container';
 import '@fontsource/roboto/500.css';
 import cards from "./data.json";
 
-/*const cards = [1, 2, 3, 4, 5, 6];*/
 
 export default function Album() {
   return (
-      <main>
-        <Container sx={{ paddingBottom: '10%', paddingTop: '5%' }} maxWidth='80%'>
+        <Container sx={{ paddingBottom: '10%', paddingTop: '5%' }} maxWidth="lg" >
           <Typography sx={{ py: 5, textAlign: 'center' }} variant="h2" component="h1">
             Projects
           </Typography>
@@ -28,11 +26,8 @@ export default function Album() {
                 >
                   <CardMedia
                     component="div"
-                    sx={{
-                      // 16:9
-                      pt: '56.25%',
-                    }}
-                    image="https://source.unsplash.com/random?wallpapers"
+                    sx={{ pt: '56.25%'}}
+                    image= { card.img }
                   />
                   
                   <CardContent sx={{ flexGrow: 1 }}>
@@ -40,19 +35,27 @@ export default function Album() {
                       { card.title }
                     </Typography>
                     <Typography>
-                      This is a media card. You can use this section to describe the
-                      content.
+                      { card.description }
                     </Typography>
                   </CardContent>
                   <CardActions>
-                    <Button size="small">View</Button>
-                    <Button size="small">Edit</Button>
+                    <Button
+                    href={ card.link }
+                    target="_blank"
+                    size="small"
+                    variant="contained"
+                    sx={{ marginX: 1 }}>View</Button>
+
+                    <Button
+                    href={ card.link2 }
+                    target="_blank"
+                    size="small"
+                    variant="contained">Details</Button>
                   </CardActions>
                 </Card>
               </Grid>
             ))}
           </Grid>
         </Container>
-      </main>
   );
 }

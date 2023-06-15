@@ -1,51 +1,42 @@
 [
   {
     "id": 1,
-    "img": "xxxxxxxxx",
+    "img": "https://cdn.discordapp.com/attachments/823623035428536350/1118816737979285514/portfolioSite.png",
     "title": "My Portfolio",
-    "description": "xxxxxxxxxxxx",
-    "link": "xxxxxxxxxx"
+    "description": "My first project using React and other features like Material UI, BrowserRouter, AOS...",
+    "link": "#Album",
+    "link2": "https://github.com/BrunoWebDesigner/portfolio_website.git"
   },
   {
     "id": 2,
-    "img": "xxxxxxxxx",
-    "title": "Teste",
-    "description": "xxxxxxxxxxxx",
-    "link": "xxxxxxxxxx"
+    "img": "https://cdn.discordapp.com/attachments/823623035428536350/1118818335933603941/MyaApp.png",
+    "title": "Mya's App",
+    "description": "I have developed a fully functional application using Bootstrap and Json specifically tailored for Streamer Mya and her viewers.",
+    "link": "https://brunowebdesigner.github.io/roletamyada/",
+    "link2": "https://drive.google.com/file/d/1Eg0rDWL_rml0sescCSsSGKC3ghmYxi0K/view?usp=drive_link"
   },
   {
     "id": 3,
-    "img": "xxxxxxxxx",
-    "title": "xxxxxxx",
-    "description": "xxxxxxxxxxxx",
-    "link": "xxxxxxxxxx"
+    "img": "https://cdn.discordapp.com/attachments/823623035428536350/1118833932583043102/WorldTree.png",
+    "title": "World Tree App",
+    "description": "This was a UX Design case study where I created the design concept and idea for the app, during my course with the Google team.",
+    "link": "https://www.figma.com/proto/qTOx9giRVSiVp4bELPuN4u/WorldTreeApp?node-id=52-546&scaling=scale-down&page-id=52%3A236&starting-point-node-id=52%3A546",
+    "link2": "https://drive.google.com/file/d/1_EMJbTiBgaFWNQ0emJU5Bj8B3Fh0r2DP/view?usp=drive_link"
   },
   {
     "id": 4,
-    "img": "xxxxxxxxx",
-    "title": "xxxxxxx",
-    "description": "xxxxxxxxxxxx",
-    "link": "xxxxxxxxxx"
+    "img": "https://cdn.discordapp.com/attachments/823623035428536350/1118834446771167242/leocharadaSite.png",
+    "title": "Leo Charada's Website",
+    "description": "This was a UX Design case study where I created the design concept and idea for a branding website for Streamer Leo Charada.",
+    "link": "https://leocharadaadm.wixsite.com/leocharada/games",
+    "link2": "https://drive.google.com/file/d/1Qn8BktQOX9ibuHdlD3QKoYGl0tYavvLf/view?usp=drive_link"
   },
   {
     "id": 5,
-    "img": "xxxxxxxxx",
-    "title": "xxxxxxx",
-    "description": "xxxxxxxxxxxx",
-    "link": "xxxxxxxxxx"
-  },
-  {
-    "id": 6,
-    "img": "xxxxxxxxx",
-    "title": "xxxxxxx",
-    "description": "xxxxxxxxxxxx",
-    "link": "xxxxxxxxxx"
-  },
-  {
-    "id": 7,
-    "img": "xxxxxxxxx",
-    "title": "xxxxxxx",
-    "description": "xxxxxxxxxxxx",
-    "link": "xxxxxxxxxx"
+    "img": "https://cdn.discordapp.com/attachments/823623035428536350/1118835214479798335/StarbucksApp.png",
+    "title": "Starbucks VIP App",
+    "description": "This was a UX Design case study with the design concept of ​​an Starbucks app, during my course with the Google team.",
+    "link": "https://www.figma.com/proto/uHBCgCoTpfqeWDxWf99mtv/STARBUCKS-APP?node-id=82-82&scaling=scale-down&page-id=80%3A70&starting-point-node-id=82%3A82",
+    "link2": "https://drive.google.com/file/d/10Pj0T7vyKes3PRIm-p1EcVtYn5QNhLKZ/view?usp=drive_link"
   }
 ]
