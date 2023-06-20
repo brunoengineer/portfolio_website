@@ -19,7 +19,7 @@ function AboutBox1 () {
         </div>
         <div className={styles.content}>
           <p data-aos="fade-right" data-aos-easing="ease-in-sine">DO YOU WANT TO KNOW MORE ABOUT ME?</p>
-          <h1 data-aos="fade-right" data-aos-easing="ease-in-sine">Let`s Talk About Bruno.</h1>
+          <h1 data-aos="fade-right" data-aos-easing="ease-in-sine">Let's Talk About Bruno.</h1>
         </div>
       </div>
     </>
