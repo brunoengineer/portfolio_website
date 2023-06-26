@@ -1,5 +1,5 @@
 import styles from "./AboutBox1.module.css";
-import myface2 from "../../img/myface2.jpg";
+import myface1 from "../../img/myface1.jpg";
 
 import AOS from 'aos';
 import 'aos/dist/aos.css';
@@ -15,7 +15,7 @@ function AboutBox1 () {
     <>
       <div className={styles.hero}>
         <div className={styles.mask}>
-          <img className={styles.photo} src={myface2} alt="my pretty face"/>
+          <img className={styles.photo} src={myface1} alt="my pretty face"/>
         </div>
         <div className={styles.content}>
           <p data-aos="fade-right" data-aos-easing="ease-in-sine">DO YOU WANT TO KNOW MORE ABOUT ME?</p>

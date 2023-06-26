@@ -7,6 +7,7 @@ import ErrorPage from './components/pages/ErrorPage';
 import Container from './components/layout/Container';
 import Navbar from './components/layout/Navbar';
 import Footer from './components/layout/Footer';
+import ScrollToTop from './components/ScrollToTop';
 
 
 function App() {
@@ -24,6 +25,7 @@ function App() {
       </Container>
 
       <Footer />
+      <ScrollToTop />
     </Router>
   )
 }

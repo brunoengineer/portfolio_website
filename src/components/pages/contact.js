@@ -1,5 +1,12 @@
+import ContactForm from "./../layout/ContactForm.js";
+
+
 function Contact () {
-  return <h1>Contact with me</h1>
+  return (
+    <>
+      <ContactForm />
+    </>
+  )
 }
 
 export default Contact

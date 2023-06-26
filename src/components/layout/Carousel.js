@@ -36,14 +36,6 @@ function Aboutimg() {
                 </div>`
     },
     {
-      image: "https://cdn.discordapp.com/attachments/823623035428536350/1120702619879473242/05.jpg",
-      caption: `<div>
-      Varginha - Brazil
-                  <br/>
-                  Family and New Family Members
-                </div>`
-    },
-    {
       image: "https://cdn.discordapp.com/attachments/823623035428536350/1120702619359395920/03.jpg",
       caption: `<div>
                   Rio de Janeiro - Brazil
@@ -81,14 +73,6 @@ function Aboutimg() {
                   Curitiba - Brazil
                   <br/>
                   Officer Diogenes and his beautiful family
-                </div>`
-    },
-    {
-      image: "https://cdn.discordapp.com/attachments/823623035428536350/1120710925415096461/BB.jpg",
-      caption: `<div>
-                  My Partner
-                  <br/>
-                  The One Who Supports All my Professional and Personal Projects
                 </div>`
     }
   ];
