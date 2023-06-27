@@ -1,70 +1,56 @@
-# Getting Started with Create React App
+# A portfolio website created using React App.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Check out the completed website here: [My Portfolio](https://brunowebdesigner.github.io/portfolio_website/).
 
-## Available Scripts
+## Project Details
 
-In the project directory, you can run:
+Conheça algumas características do meu projeto:
 
-### `npm start`
+### `Utilizing React`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+This was a project developed with React, built using .jsx components. Visit [react.dev](https://react.dev/) to learn more about React.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### `Page Routing`
 
-### `npm test`
+Create React App doesn't include page routing.\
+React Router is the most popular solution and I used it in my code. [React Router](https://www.w3schools.com/react/react_router.asp) for more information.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### `Navbar`
 
-### `npm run build`
+I built a responsive navbar with a sandwich icon and a side window..\
+One cool detail is that the background remains hidden and only appears when scrolling the page. To achieve this, I created a changeColor function, which can be found in the code here on GitHub, in the Navbar.js file.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### `Icons`
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+I obtained some icons as .png images, but for the GitHub and LinkedIn icons, I used the Font Awesome library, which I installed in my project following the instructions provided on  [fontawasome.com](https://fontawesome.com/docs/web/use-with/react/).
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### `Styling Details`
 
-### `npm run eject`
+This website was created with a lot of care to showcase my efforts and also to learn various things. That's why I invested time in styling details.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+The animation on the edges of my photo on the Homepage was created using CSS. This code is clearly highlighted in the Hero.module.css file as **MY BUBBLE FACE**.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Some titles and images have a fade-in transition, and for that, I learned to use the library [AOS](https://michalsnik.github.io/aos/). Click and learn more if you're interested.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### `Responsiveness`
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Throughout the project, I took user satisfaction into consideration on any device and screen size used.\
+Most of the modifications were made using CSS @media queries.
 
-## Learn More
+Notice that the image in the career timeline on the About tab is adjusted for better visibility on smaller screens.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### `Carousel Component`
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+With the help of some components found online, I built and customized an image carousel showcasing the friendships I have made at work.\
+In this work, I created a constant and placed the objects inside the Carousel.js file.
 
-### Code Splitting
+### `Projects Cards Component`
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+It was created using the [mui.com](https://mui.com/) library.
 
-### Analyzing the Bundle Size
+In this component, I used a method to retrieve information from a data.json file, making the addition of new projects dynamic.\
+Interesting to note that in this component, I organized the styling using the MUI library within the Album.js file.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+### `Thank You`
 
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Thank you for reaching this point. I am loving working on website development, and I hope you feel the same way.
