@@ -4,7 +4,7 @@ Check out the completed website here: [My Portfolio](https://brunowebdesigner.gi
 
 ## Project Details
 
-Conheça algumas características do meu projeto:
+Discover some features of my project:
 
 ### `Utilizing React`
 
