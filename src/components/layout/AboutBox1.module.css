@@ -47,14 +47,29 @@
   object-fit: cover;
 }
 
+.resumeButton {
+  background-color: rgb(43, 43, 168);
+  font-family: sans-serif;
+  font-size: 16px;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.resumeButton:hover {
+  background-color: rgb(88, 88, 212);
+}
+
 /* RESPONSIVE */
 @media screen and (max-width: 640px) {
   .hero .content h1 {
-    font-size: 2.5rem;
+    font-size: 2.2rem;
   }
   
   .hero .content p {
-    font-size: 1.3rem;
+    font-size: 1rem;
   }
 
   .mask {

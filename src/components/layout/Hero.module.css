@@ -58,7 +58,7 @@
 }
 
 .circle {
-  background: plum;
+  background: rgb(7, 10, 43);
   width: 200px;
   height: 200px;
   border-radius: 40% 60% 70% 30% / 40% 50% 60% 50%;

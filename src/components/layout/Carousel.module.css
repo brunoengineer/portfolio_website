@@ -1,10 +1,9 @@
 .App {
   display: block;
-  height: 100%;
+  height: 980px;
   width: 100%;
   background-color: rgb(0, 0, 14);
   text-align: center;
-  height: 140vh;
 }
 
 .App h1 {
@@ -35,6 +34,6 @@
   }
 
   .App {
-    height: 90vh;
+    height: 70vh;
   }
 }
