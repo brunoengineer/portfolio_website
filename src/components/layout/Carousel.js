@@ -1,10 +1,19 @@
 import { Carousel } from 'react-carousel-minimal';
 import styles from "./Carousel.module.css";
+import lagoasanta from "../../img/lagoasanta.jpg";
+import bh from "../../img/bh.jpg";
+import rj from "../../img/rj.jpg";
+import sj from "../../img/sj.jpg";
+import rj2 from "../../img/rj2.jpg";
+import softwaredev from "../../img/softwaredev.jpg";
+import sp from "../../img/sp.jpg";
+import sgt from "../../img/sgt.jpg";
+import dio from "../../img/dio.jpg";
 
 function Aboutimg() {
  const data = [
     {
-      image: "https://cdn.discordapp.com/attachments/823623035428536350/1120702620743503902/07.jpg",
+      image: lagoasanta,
       caption: `<div>
                   Lagoa Santa - Brazil
                   <br/>
@@ -12,7 +21,7 @@ function Aboutimg() {
                 </div>`
     },
     {
-      image: "https://cdn.discordapp.com/attachments/823623035428536350/1120702618747027516/01.jpg",
+      image: bh,
       caption: `<div>
                   Belo Horizonte - Brazil
                   <br/>
@@ -20,7 +29,7 @@ function Aboutimg() {
                 </div>`
     },
     {
-      image: "https://cdn.discordapp.com/attachments/823623035428536350/1120702619086749756/02.jpg",
+      image: rj,
       caption: `<div>
                   Rio de Janeiro - Brazil
                   <br/>
@@ -28,7 +37,7 @@ function Aboutimg() {
                 </div>`
     },
     {
-      image: "https://cdn.discordapp.com/attachments/823623035428536350/1120702619636207689/04.jpg",
+      image: sj,
       caption: `<div>
                   São José dos Campos - Brazil
                   <br/>
@@ -36,7 +45,7 @@ function Aboutimg() {
                 </div>`
     },
     {
-      image: "https://cdn.discordapp.com/attachments/823623035428536350/1120702619359395920/03.jpg",
+      image: rj2,
       caption: `<div>
                   Rio de Janeiro - Brazil
                   <br/>
@@ -44,7 +53,7 @@ function Aboutimg() {
                 </div>`
     },
     {
-      image: "https://cdn.discordapp.com/attachments/823623035428536350/1120702621011935332/08.jpg",
+      image: softwaredev,
       caption: `<div>
                   Rio de Janeiro - Brazil
                   <br/>
@@ -52,7 +61,7 @@ function Aboutimg() {
                 </div>`
     },
     {
-      image: "https://cdn.discordapp.com/attachments/823623035428536350/1120702621234249828/09.jpg",
+      image: sp,
       caption: `<div>
                   São Paulo - Brazil
                   <br/>
@@ -60,7 +69,7 @@ function Aboutimg() {
                 </div>`
     },
     {
-      image: "https://cdn.discordapp.com/attachments/823623035428536350/1120702621485895701/10.jpg",
+      image: sgt,
       caption: `<div>
                   Rio de Janeiro - Brazil
                   <br/>
@@ -68,7 +77,7 @@ function Aboutimg() {
                 </div>`
     },
     {
-      image: "https://cdn.discordapp.com/attachments/823623035428536350/1120702670278242314/11.jpg",
+      image: dio,
       caption: `<div>
                   Curitiba - Brazil
                   <br/>
