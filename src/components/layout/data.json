@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "img": "https://media.discordapp.net/attachments/823623035428536350/1118816737979285514/portfolioSite.png?ex=660527c8&is=65f2b2c8&hm=31aebcbbd4eb377d5d89aeafcf9a96259668d087e5b7103cd1459fc5f840692d&=&format=webp&quality=lossless&width=550&height=305",
+    "img": "https://media.discordapp.net/attachments/823623035428536350/1118816737979285514/portfolioSite.png?ex=665ecdc8&is=665d7c48&hm=16b19ef6ce44ab768afac550a775522f80c9fba6eec690ccb25b26ebbb130227&=&format=webp&quality=lossless&width=1221&height=676",
     "title": "My Portfolio",
     "description": "My first project using React and other features like Material UI, BrowserRouter, AOS...",
     "link": "#Album",
@@ -9,7 +9,7 @@
   },
   {
     "id": 2,
-    "img": "https://media.discordapp.net/attachments/823623035428536350/1118818335933603941/MyaApp.png?ex=66052945&is=65f2b445&hm=120ec80ce403c8db7535f7821e2e1b6d5c3995429a88f565d2ae3d29f6c4b246&=&format=webp&quality=lossless&width=922&height=676",
+    "img": "https://media.discordapp.net/attachments/823623035428536350/1118818335933603941/MyaApp.png?ex=665ecf45&is=665d7dc5&hm=fcf63556b7caa92665ea3f6f699b5854eecd576e428a77480f7a73a287f4068e&=&format=webp&quality=lossless&width=922&height=676",
     "title": "Mya's App",
     "description": "I have developed a fully functional application using Bootstrap and Json specifically tailored for Streamer Mya and her viewers.",
     "link": "https://brunowebdesigner.github.io/roletamyada/",
@@ -17,7 +17,7 @@
   },
   {
     "id": 3,
-    "img": "https://media.discordapp.net/attachments/823623035428536350/1118833932583043102/WorldTree.png?ex=660537cc&is=65f2c2cc&hm=2219bba065d6633ff90f2e9280f488301c3d4cc2e8ae4925cabea1ea12c91f98&=&format=webp&quality=lossless&width=960&height=566",
+    "img": "https://media.discordapp.net/attachments/823623035428536350/1118833932583043102/WorldTree.png?ex=665eddcc&is=665d8c4c&hm=b8b2270c260fa0c750470d6c97ccd700984e53a418d739edffae3f0407078c20&=&format=webp&quality=lossless",
     "title": "World Tree App",
     "description": "This was a UX Design case study where I created the design concept and idea for the app, during my course with the Google team.",
     "link": "https://www.figma.com/proto/qTOx9giRVSiVp4bELPuN4u/WorldTreeApp?node-id=52-546&scaling=scale-down&page-id=52%3A236&starting-point-node-id=52%3A546",
@@ -25,7 +25,7 @@
   },
   {
     "id": 4,
-    "img": "https://media.discordapp.net/attachments/823623035428536350/1118834446771167242/leocharadaSite.png?ex=66053847&is=65f2c347&hm=93ac2b1c3f3b7a866681a172c41bc369450524430698a64fd22672eb66d0dffb&=&format=webp&quality=lossless&width=960&height=441",
+    "img": "https://media.discordapp.net/attachments/823623035428536350/1118834446771167242/leocharadaSite.png?ex=665ede47&is=665d8cc7&hm=36cdd46084612167614a1a898fcfa9d4a387c374f49d7cfc19b1c6ce2713eecd&=&format=webp&quality=lossless&width=1440&height=662",
     "title": "Leo Charada's Website",
     "description": "This was a UX Design case study where I created the design concept and idea for a branding website for Streamer Leo Charada.",
     "link": "https://leocharadaadm.wixsite.com/leocharada/games",
@@ -33,7 +33,7 @@
   },
   {
     "id": 5,
-    "img": "https://media.discordapp.net/attachments/823623035428536350/1118835214479798335/StarbucksApp.png?ex=660538fe&is=65f2c3fe&hm=f44f9ec0840fe4570e734bb4aabcd660a05f23c0b78279bc2aceb51a8ac0c0e5&=&format=webp&quality=lossless&width=960&height=439",
+    "img": "https://media.discordapp.net/attachments/823623035428536350/1118835214479798335/StarbucksApp.png?ex=665edefe&is=665d8d7e&hm=833f831c9b42e1929e46cc12c955e845bab71743b79e2f8ef7051e05872b8985&=&format=webp&quality=lossless&width=1440&height=659",
     "title": "Starbucks VIP App",
     "description": "This was a UX Design case study with the design concept of ​​an Starbucks app, during my course with the Google team.",
     "link": "https://www.figma.com/proto/uHBCgCoTpfqeWDxWf99mtv/STARBUCKS-APP?node-id=82-82&scaling=scale-down&page-id=80%3A70&starting-point-node-id=82%3A82",
