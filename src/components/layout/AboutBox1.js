@@ -20,7 +20,7 @@ function AboutBox1 () {
         <div className={styles.content}>
           <p data-aos="fade-right" data-aos-easing="ease-in-sine">DO YOU WANT TO KNOW MORE ABOUT ME?</p>
           <h1 data-aos="fade-right" data-aos-easing="ease-in-sine">Let's Talk About Bruno.</h1>
-          <a href="https://drive.google.com/file/d/1ETKlb2_CmrvZDcepfeNPgVXkOsAunzxM/view?usp=sharing" target="_blank" rel="noreferrer"><button className={styles.resumeButton}>Resume</button></a>
+          <a href="https://drive.google.com/file/d/1DXjMJH-ccw78fv05UwBXo0MvGcPVRBcZ/view?usp=sharing" target="_blank" rel="noreferrer"><button className={styles.resumeButton}>Resume</button></a>
         </div>
       </div>
     </>
