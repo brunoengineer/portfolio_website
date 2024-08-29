@@ -10,52 +10,55 @@ import Container from '@mui/material/Container';
 import '@fontsource/roboto/500.css';
 import cards from "./data.json";
 
-
 export default function Album() {
   return (
-        <Container sx={{ paddingBottom: '10%', paddingTop: '5%' }} maxWidth="lg" >
-          <Typography sx={{ py: 5, textAlign: 'center' }} variant="h2" component="h1">
-            Projects
-          </Typography>
+    <Container sx={{ paddingBottom: '10%', paddingTop: '5%' }} maxWidth="lg">
+      <Typography sx={{ py: 5, textAlign: 'center' }} variant="h2" component="h1">
+        Projects
+      </Typography>
 
-          <Grid container spacing={4}>
-            {cards.map((card) => (
-              <Grid item key={card} xs={12} sm={6} md={4}>
-                <Card
-                  sx={{ height: '100%', display: 'flex', flexDirection: 'column' }}
+      <Grid container spacing={4}>
+        {cards.map((card, index) => (
+          <Grid item key={index} xs={12} sm={6} md={4}>
+            <Card sx={{ height: '100%', display: 'flex', flexDirection: 'column' }}>
+              <CardMedia
+                component="div"
+                sx={{ pt: '56.25%' }} // Proporção de 16:9
+                image={card.img} // Usando o caminho da imagem diretamente
+              />
+              
+              <CardContent sx={{ flexGrow: 1 }}>
+                <Typography gutterBottom variant="h5" component="h2">
+                  {card.title}
+                </Typography>
+                <Typography>
+                  {card.description}
+                </Typography>
+              </CardContent>
+              <CardActions>
+                <Button
+                  href={card.link}
+                  target="_blank"
+                  size="small"
+                  variant="contained"
+                  sx={{ marginX: 1 }}
                 >
-                  <CardMedia
-                    component="div"
-                    sx={{ pt: '56.25%'}}
-                    image= { card.img }
-                  />
-                  
-                  <CardContent sx={{ flexGrow: 1 }}>
-                    <Typography gutterBottom variant="h5" component="h2">
-                      { card.title }
-                    </Typography>
-                    <Typography>
-                      { card.description }
-                    </Typography>
-                  </CardContent>
-                  <CardActions>
-                    <Button
-                    href={ card.link }
-                    target="_blank"
-                    size="small"
-                    variant="contained"
-                    sx={{ marginX: 1 }}>View</Button>
+                  View
+                </Button>
 
-                    <Button
-                    href={ card.link2 }
-                    target="_blank"
-                    size="small"
-                    variant="contained">Details</Button>
-                  </CardActions>
-                </Card>
-              </Grid>
-            ))}
+                <Button
+                  href={card.link2}
+                  target="_blank"
+                  size="small"
+                  variant="contained"
+                >
+                  Details
+                </Button>
+              </CardActions>
+            </Card>
           </Grid>
-        </Container>
+        ))}
+      </Grid>
+    </Container>
   );
 }
