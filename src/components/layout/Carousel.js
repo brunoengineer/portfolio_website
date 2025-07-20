@@ -13,23 +13,23 @@ function Aboutimg() {
       {
       image: hub88,
       caption: `<div>
-                  Tallinn - Estonia
+                  Estonia
                   <br/>
-                  Great Coworkers Professionals from Hub88
+                  Hub88 Team
                 </div>`
     },
    {
       image: to,
       caption: `<div>
-                  Tallinn - Estonia
+                  Estonia
                   <br/>
-                  Friends of API Integration - Hub88
+                  API Integration Team - Hub88
                 </div>`
     },
     {
       image: yolo,
       caption: `<div>
-                  Tallinn - Estonia
+                  Estonia
                   <br/>
                   Coworkers from Igaming Industry - Yolo
                 </div>`
@@ -39,7 +39,7 @@ function Aboutimg() {
       caption: `<div>
                   Lagoa Santa - Brazil
                   <br/>
-                  My Students of software applied in logistics management
+                  My Students - Software Applied in Logistics Management
                 </div>`
     },
     {
@@ -47,7 +47,7 @@ function Aboutimg() {
       caption: `<div>
                   Rio de Janeiro - Brazil
                   <br/>
-                  Friends at the Logistics Division of the Brazilian Air Force
+                  Logistics Division<br/>Brazilian Air Force Friends
                 </div>`
     },
     {
@@ -55,7 +55,7 @@ function Aboutimg() {
       caption: `<div>
                   Rio de Janeiro - Brazil
                   <br/>
-                  QA Partner in the Procurement App Project
+                  Procurement App Project - QA Partner
                 </div>`
     },
     {
@@ -63,7 +63,7 @@ function Aboutimg() {
       caption: `<div>
                   Rio de Janeiro - Brazil
                   <br/>
-                  Friends Sergeants of the Logistics Division
+                  Team Event<br/>Logistical Centre Brazilian Air Force
                 </div>`
     }
   ];
@@ -79,7 +79,7 @@ function Aboutimg() {
   return (
     <div className={styles.App}>
       <div style={{ textAlign: "center" }}>
-        <h1>Grateful for all the friendships I've made at work in my life</h1>
+        <h1>Grateful for all the friends I've made at work</h1>
         <p>Coworkers and Friends</p>
         <div style={{
           padding: "0 20px"

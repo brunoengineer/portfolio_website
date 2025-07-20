@@ -3,8 +3,8 @@
     "id": 1,
     "img": "/img/apiTestingAssistant.png",
     "title": "AI API Testing Assistant",
-    "description": "I created this solution using Playwright to help QA ENgineers test APIs more efficiently. It allows for the creation of test cases.",
-    "link": "#Album",
+    "description": "I created this solution using Playwright to help QA Engineers test APIs more efficiently. It can be used for the creation of test cases efficiently.",
+    "link": "https://github.com/BrunoWebDesigner/ManualTestGenerator/blob/main/README.md",
     "link2": "https://github.com/BrunoWebDesigner/ManualTestGenerator"
   },
   {
@@ -12,7 +12,7 @@
     "img": "/img/qaKnowledgeHub.png",
     "title": "My Software Testing Knowledge Hub",
     "description": "A comprehensive hub where I share my knowledge and resources about software testing, including best practices, methodologies, and useful tools.",
-    "link": "#Album",
+    "link": "https://github.com/BrunoWebDesigner/qaConcepts/blob/main/what_is_testing.md",
     "link2": "https://github.com/BrunoWebDesigner/qaConcepts"
   },
   {
@@ -20,7 +20,7 @@
     "img": "/img/postmanAutomation.png",
     "title": "Signature Automation with Postman",
     "description": "Guide on how to automate the SHA-256 signature process using Postman, which can be useful for automating API testing workflows.",
-    "link": "#Album",
+    "link": "https://github.com/BrunoWebDesigner/postmanSignatureServer/blob/main/README.md",
     "link2": "https://github.com/BrunoWebDesigner/postmanSignatureServer"
   },
   {
@@ -28,7 +28,7 @@
     "img": "/img/ibm.png",
     "title": "Fullstack Developer Course Project",
     "description": "This project was developed during my Fullstack Developer course at IBM, where I applied various technologies and methodologies learned throughout the course.",
-    "link": "#Album",
+    "link": "https://brunowebdesigner.github.io/paradise-nursery/",
     "link2": "https://github.com/BrunoWebDesigner/paradise-nursery"
   },
   {
