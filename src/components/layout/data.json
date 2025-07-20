@@ -35,7 +35,7 @@
     "id": 5,
     "img": "/img/portfolioSite.png",
     "title": "My Portfolio",
-    "description": "My first project using React and other features like Material UI, BrowserRouter, AOS...",
+    "description": "Project using React and other features like Material UI, BrowserRouter, AOS...",
     "link": "#Album",
     "link2": "https://github.com/BrunoWebDesigner/portfolio_website.git"
   },
