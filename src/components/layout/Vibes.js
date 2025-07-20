@@ -1,7 +1,7 @@
 import AOS from 'aos';
 import 'aos/dist/aos.css';
 import { useEffect } from "react";
-import styles from "./Mywife.module.css";
+import styles from "./Vibes.module.css";
 import bb from "../../img/bb.jpg";
 
 

@@ -1,7 +1,7 @@
 import Career from "./../layout/Career.js";
 import AboutBox1 from './../layout/AboutBox1.js';
 import Aboutimg from './../layout/Carousel.js';
-import Mywife from './../layout/Mywife.js';
+import Vibes from '../layout/Vibes.js';
 
 
 function About () {
@@ -10,7 +10,7 @@ function About () {
       <AboutBox1 />
       <Career />
       <Aboutimg />
-      <Mywife />
+      <Vibes />
     </>
   )
 }
