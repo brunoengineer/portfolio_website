@@ -16,7 +16,7 @@ useEffect(() => {
     <>
       <Hero />
       <Album />
-      <div className={styles.caixa2} id="skills">
+      <div className={styles.caixa2}>
         <h1>Skills</h1>
         <div className={styles.skills} data-aos="fade-right" data-aos-offset="300" data-aos-easing="ease-in-sine">
           <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img className={styles.skillLogo} src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
@@ -30,11 +30,10 @@ useEffect(() => {
           <a href="https://www.cypress.io/" target="_blank" rel="noreferrer"><img className={styles.skillLogo} src="https://cdn.worldvectorlogo.com/logos/cypress-1.svg" width="36" height="36" alt="Cypress" /></a>
           <a href="https://playwright.dev/" target="_blank" rel="noreferrer"><img className={styles.skillLogo} src="https://playwright.dev/img/playwright-logo.svg" width="36" height="36" alt="Playwright" /></a>
         </div>
-        <p>
-          The icons above highlight my main technical skills. In addition, I am proficient in Git, Excel, PowerPoint, Premiere Pro, Google Apps, Jira, Altair, Elastic Search, DBeaver, Docker, CLIs and social media management, which complement my development expertise and support my ability to deliver well-rounded solutions.
-        </p>
+        <p>I also possess strong skills in Git, Excel, PowerPoint, Premiere Pro, Google Apps, Jira, Altair, Elastic Search, DBeaver, Docker, CLIs and social media management. These complementary abilities allow me to efficiently analyze data, create captivating presentations, edit professional videos, collaborate seamlessly using cloud-based tools, and work with social media platforms.</p>
       </div>
       <Vibes />
+
     </>
   )
 }
