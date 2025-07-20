@@ -1,23 +1,20 @@
 {
   "files": {
-    "main.css": "/portfolio_website/static/css/main.98d84f1f.css",
-    "main.js": "/portfolio_website/static/js/main.f8820aff.js",
+    "main.css": "/portfolio_website/static/css/main.89ad9118.css",
+    "main.js": "/portfolio_website/static/js/main.13a1f424.js",
+    "static/media/yolo.jpg": "/portfolio_website/static/media/yolo.6bc3e581dc595429cfe7.jpg",
     "static/media/myface.png": "/portfolio_website/static/media/myface.930d7cf586fa9154fdb2.png",
     "static/media/bluepc.jpg": "/portfolio_website/static/media/bluepc.ee6527f7480917c1fc9f.jpg",
-    "static/media/dio.jpg": "/portfolio_website/static/media/dio.114e8983a181dbbf02fe.jpg",
+    "static/media/hub88.jpg": "/portfolio_website/static/media/hub88.554b72c71749de97a54f.jpg",
     "static/media/bb.jpg": "/portfolio_website/static/media/bb.fb8afa55704fd0af14b9.jpg",
-    "static/media/sp.jpg": "/portfolio_website/static/media/sp.362eac5c89ec8f9dcffa.jpg",
-    "static/media/bh.jpg": "/portfolio_website/static/media/bh.596a532f6c8d3c217104.jpg",
     "static/media/myface1.jpg": "/portfolio_website/static/media/myface1.be2afcba165c85b6e9f6.jpg",
     "static/media/rj2.jpg": "/portfolio_website/static/media/rj2.260fc8ed11e6bf14f5da.jpg",
     "static/media/sgt.jpg": "/portfolio_website/static/media/sgt.c1650ce7fb68e6f1701d.jpg",
     "static/media/myface2.jpg": "/portfolio_website/static/media/myface2.755b7b13828573de3bd5.jpg",
-    "static/media/rj.jpg": "/portfolio_website/static/media/rj.098c37dbcf516b4548d4.jpg",
     "static/media/lagoasanta.jpg": "/portfolio_website/static/media/lagoasanta.de9d8df903b829329ba2.jpg",
-    "static/media/sj.jpg": "/portfolio_website/static/media/sj.8798b27e667d99ae710f.jpg",
+    "static/media/careerPath.png": "/portfolio_website/static/media/careerPath.985c5ffef1b1aebff94b.png",
     "static/media/softwaredev.jpg": "/portfolio_website/static/media/softwaredev.039675e33ad31c144b35.jpg",
-    "static/media/carrermap.png": "/portfolio_website/static/media/carrermap.21cf3a50339dd0e6579f.png",
-    "static/media/carrermap2.png": "/portfolio_website/static/media/carrermap2.7c9f78ffeabbcfb5f38c.png",
+    "static/media/to.jpg": "/portfolio_website/static/media/to.8e043cc5cee38e94714d.jpg",
     "static/media/logo.png": "/portfolio_website/static/media/logo.43ac043cf45bf4112cda.png",
     "static/media/roboto-latin-500-normal.woff2": "/portfolio_website/static/media/roboto-latin-500-normal.f25d774ecfe0996f8eb5.woff2",
     "static/media/roboto-cyrillic-ext-500-normal.woff2": "/portfolio_website/static/media/roboto-cyrillic-ext-500-normal.62ced72e5832f02c2796.woff2",
@@ -34,11 +31,11 @@
     "static/media/roboto-greek-ext-500-normal.woff2": "/portfolio_website/static/media/roboto-greek-ext-500-normal.6fb9cffb1d3e72bf9293.woff2",
     "static/media/roboto-greek-ext-500-normal.woff": "/portfolio_website/static/media/roboto-greek-ext-500-normal.eaa367bbd0b333a7f80b.woff",
     "index.html": "/portfolio_website/index.html",
-    "main.98d84f1f.css.map": "/portfolio_website/static/css/main.98d84f1f.css.map",
-    "main.f8820aff.js.map": "/portfolio_website/static/js/main.f8820aff.js.map"
+    "main.89ad9118.css.map": "/portfolio_website/static/css/main.89ad9118.css.map",
+    "main.13a1f424.js.map": "/portfolio_website/static/js/main.13a1f424.js.map"
   },
   "entrypoints": [
-    "static/css/main.98d84f1f.css",
-    "static/js/main.f8820aff.js"
+    "static/css/main.89ad9118.css",
+    "static/js/main.13a1f424.js"
   ]
 }
