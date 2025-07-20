@@ -1,31 +1,39 @@
-.caixa1 {
-  height: 100%;
+.vibesApp {
+  display: block;
+  height: 980px;
   width: 100%;
-  background-color: rgb(255, 255, 255);
+  background-color: azure;
   text-align: center;
 }
 
-.caixa1 > h1 {
-  margin-top: 2rem;
+.vibesApp h1 {
+  color: rgb(20, 20, 20);
+  margin-top: 3rem;
   margin-bottom: 0;
   text-align: center;
-  font-size: 2.5rem;
-  padding: 2rem 0 2rem;
-}
-.travelPanel {
-  width: 60%;
-  padding: 0 0 4rem;
+  font-size: 3rem;
+  padding: 0.6rem 0 0;
 }
 
-@media screen and (max-width: 900px) {
-
-  .travelPanel {
-    width: 60%;
-  }
+.vibesApp p {
+  color: rgb(20, 20, 20);
+  margin-top: 1rem;
+  margin-bottom: 0;
+  text-align: center;
+  font-size: 1.5rem;
+  padding: 0.6rem 0 0;
 }
 
-@media screen and (max-width: 640px) {
-  .caixa1 > h1 {
+@media screen and (max-width: 500px) {
+  .vibesApp h1 {
     font-size: 1.5rem;
+  }
+
+  .vibesApp p {
+    font-size: 1rem;
+  }
+
+  .vibesApp {
+    height: 70vh;
   }
 }
