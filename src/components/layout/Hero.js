@@ -17,7 +17,7 @@ function Hero () {
             </div>
           </div>
           <p>HELLO, I'M BRUNO.</p>
-          <h1>Front-end Developer.</h1>
+          <h1>Front-end Developer</h1>
         </div>
       </div>
     </Container>

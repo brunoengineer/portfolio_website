@@ -23,8 +23,9 @@ export default function Album() {
             <Card sx={{ height: '100%', display: 'flex', flexDirection: 'column' }}>
               <CardMedia
                 component="div"
-                sx={{ pt: '56.25%' }} // Proporção de 16:9
-                image={card.img} // Usando o caminho da imagem diretamente
+                sx={{ pt: '56.25%' }}
+                style={{ backgroundImage: `url(${process.env.PUBLIC_URL + card.img})` }}
+                // image= { card.img }
               />
               
               <CardContent sx={{ flexGrow: 1 }}>

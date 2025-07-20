@@ -13,26 +13,16 @@
   padding: 0.6rem 0 0;
 }
 
-.carrerMap {
-  width: 100%;
-}
-
-.carrerMap2 {
-  display: none;
-  width: 80vw;
+.careerMap {
+  width: 70%;
+  margin-bottom: 50px;
+  margin-top: 50px;
 }
 
 @media screen and (max-width: 900px) {
 
-  .carrerMap {
-    display: none;
+  .careerMap {
     width: 100%;
-  }
-  
-  .carrerMap2 {
-    display: flex;
-    width: 90vw;
-    margin-left: 3vw;
   }
 }
 
