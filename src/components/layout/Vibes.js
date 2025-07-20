@@ -52,15 +52,15 @@ function VibesImg() {
   return (
     <div className={styles.vibesApp}>
       <div style={{ textAlign: "center" }}>
-        <h1>Feedback from my Work</h1>
+        <h1>Feedback From My Team</h1>
         <p>Coworkers and Leaders</p>
         <div style={{
           padding: "0 20px"
         }}>
           <Carousel
             data={vibesdata}
-            time={7000}
-            width="850px"
+            time={10000}
+            width="700px"
             height="500px"
             captionStyle={captionStyle}
             radius="10px"
@@ -77,7 +77,7 @@ function VibesImg() {
             thumbnailWidth="100px"
             style={{
               textAlign: "center",
-              maxWidth: "850px",
+              maxWidth: "700px",
               maxHeight: "500px",
               margin: "40px auto",
             }}
