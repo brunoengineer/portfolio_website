@@ -1,6 +1,38 @@
 [
   {
     "id": 1,
+    "img": "/img/apiTestingAssistant.png",
+    "title": "AI API Testing Assistant",
+    "description": "I created this solution using Playwright to help QA ENgineers test APIs more efficiently. It allows for the creation of test cases.",
+    "link": "#Album",
+    "link2": "https://github.com/BrunoWebDesigner/ManualTestGenerator"
+  },
+  {
+    "id": 2,
+    "img": "/img/qaKnowledgeHub.png",
+    "title": "My Software Testing Knowledge Hub",
+    "description": "A comprehensive hub where I share my knowledge and resources about software testing, including best practices, methodologies, and useful tools.",
+    "link": "#Album",
+    "link2": "https://github.com/BrunoWebDesigner/qaConcepts"
+  },
+  {
+    "id": 3,
+    "img": "/img/postmanAutomation.png",
+    "title": "Signature Automation with Postman",
+    "description": "Guide on how to automate the SHA-256 signature process using Postman, which can be useful for automating API testing workflows.",
+    "link": "#Album",
+    "link2": "https://github.com/BrunoWebDesigner/postmanSignatureServer"
+  },
+  {
+    "id": 4,
+    "img": "/img/ibm.png",
+    "title": "Fullstack Developer Course Project",
+    "description": "This project was developed during my Fullstack Developer course at IBM, where I applied various technologies and methodologies learned throughout the course.",
+    "link": "#Album",
+    "link2": "https://github.com/BrunoWebDesigner/paradise-nursery"
+  },
+  {
+    "id": 5,
     "img": "/img/portfolioSite.png",
     "title": "My Portfolio",
     "description": "My first project using React and other features like Material UI, BrowserRouter, AOS...",
@@ -8,7 +40,7 @@
     "link2": "https://github.com/BrunoWebDesigner/portfolio_website.git"
   },
   {
-    "id": 2,
+    "id": 6,
     "img": "/img/MyaApp.png",
     "title": "Mya's App",
     "description": "I have developed a fully functional application using Bootstrap and Json specifically tailored for Streamer Mya and her viewers.",
@@ -16,7 +48,7 @@
     "link2": "https://drive.google.com/file/d/1Eg0rDWL_rml0sescCSsSGKC3ghmYxi0K/view?usp=drive_link"
   },
   {
-    "id": 3,
+    "id": 7,
     "img": "/img/WorldTree.png",
     "title": "World Tree App",
     "description": "This was a UX Design case study where I created the design concept and idea for the app, during my course with the Google team.",
@@ -24,7 +56,7 @@
     "link2": "https://drive.google.com/file/d/1_EMJbTiBgaFWNQ0emJU5Bj8B3Fh0r2DP/view?usp=drive_link"
   },
   {
-    "id": 4,
+    "id": 8,
     "img": "/img/leocharadaSite.png",
     "title": "Leo Charada's Website",
     "description": "This was a UX Design case study where I created the design concept and idea for a branding website for Streamer Leo Charada.",
@@ -32,11 +64,11 @@
     "link2": "https://drive.google.com/file/d/1Qn8BktQOX9ibuHdlD3QKoYGl0tYavvLf/view?usp=drive_link"
   },
   {
-    "id": 5,
-    "img": "/img/StarbucksApp.png",
-    "title": "Starbucks VIP App",
-    "description": "This was a UX Design case study with the design concept of ​​an Starbucks app, during my course with the Google team.",
-    "link": "https://www.figma.com/proto/uHBCgCoTpfqeWDxWf99mtv/STARBUCKS-APP?node-id=82-82&scaling=scale-down&page-id=80%3A70&starting-point-node-id=82%3A82",
-    "link2": "https://drive.google.com/file/d/10Pj0T7vyKes3PRIm-p1EcVtYn5QNhLKZ/view?usp=drive_link"
+    "id": 9,
+    "img": "/img/cardGame.png",
+    "title": "Card Game",
+    "description": "This was a web application created to a Streamer.",
+    "link": "https://brunowebdesigner.github.io/genshinCardGame/",
+    "link2": "https://github.com/BrunoWebDesigner/genshinCardGame"
   }
 ]
