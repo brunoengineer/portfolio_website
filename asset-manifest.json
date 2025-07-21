@@ -1,20 +1,21 @@
 {
   "files": {
     "main.css": "/portfolio_website/static/css/main.78b89665.css",
-    "main.js": "/portfolio_website/static/js/main.32f61bd4.js",
+    "main.js": "/portfolio_website/static/js/main.a7808f54.js",
     "static/media/yolo.jpg": "/portfolio_website/static/media/yolo.6bc3e581dc595429cfe7.jpg",
-    "static/media/myface.png": "/portfolio_website/static/media/myface.930d7cf586fa9154fdb2.png",
-    "static/media/bluepc.jpg": "/portfolio_website/static/media/bluepc.ee6527f7480917c1fc9f.jpg",
     "static/media/hub88.jpg": "/portfolio_website/static/media/hub88.554b72c71749de97a54f.jpg",
+    "static/media/myface.png": "/portfolio_website/static/media/myface.09ae901e12cfe6633ad7.png",
     "static/media/myface1.jpg": "/portfolio_website/static/media/myface1.be2afcba165c85b6e9f6.jpg",
     "static/media/rj2.jpg": "/portfolio_website/static/media/rj2.260fc8ed11e6bf14f5da.jpg",
     "static/media/sgt.jpg": "/portfolio_website/static/media/sgt.c1650ce7fb68e6f1701d.jpg",
+    "static/media/bluepc.jpg": "/portfolio_website/static/media/bluepc.7dc5bafa464364b4f972.jpg",
     "static/media/myface2.jpg": "/portfolio_website/static/media/myface2.755b7b13828573de3bd5.jpg",
     "static/media/lagoasanta.jpg": "/portfolio_website/static/media/lagoasanta.de9d8df903b829329ba2.jpg",
     "static/media/careerPath.png": "/portfolio_website/static/media/careerPath.985c5ffef1b1aebff94b.png",
     "static/media/softwaredev.jpg": "/portfolio_website/static/media/softwaredev.039675e33ad31c144b35.jpg",
     "static/media/to.jpg": "/portfolio_website/static/media/to.8e043cc5cee38e94714d.jpg",
     "static/media/logo.png": "/portfolio_website/static/media/logo.43ac043cf45bf4112cda.png",
+    "static/media/vibe8.png": "/portfolio_website/static/media/vibe8.cb8523f8654c0e7537ac.png",
     "static/media/vibe7.png": "/portfolio_website/static/media/vibe7.230dead48caca2571584.png",
     "static/media/vibe4.png": "/portfolio_website/static/media/vibe4.3354db51bb3752ac4df5.png",
     "static/media/vibe6.png": "/portfolio_website/static/media/vibe6.730519e853f0712c1ec4.png",
@@ -38,10 +39,10 @@
     "static/media/roboto-greek-ext-500-normal.woff": "/portfolio_website/static/media/roboto-greek-ext-500-normal.eaa367bbd0b333a7f80b.woff",
     "index.html": "/portfolio_website/index.html",
     "main.78b89665.css.map": "/portfolio_website/static/css/main.78b89665.css.map",
-    "main.32f61bd4.js.map": "/portfolio_website/static/js/main.32f61bd4.js.map"
+    "main.a7808f54.js.map": "/portfolio_website/static/js/main.a7808f54.js.map"
   },
   "entrypoints": [
     "static/css/main.78b89665.css",
-    "static/js/main.32f61bd4.js"
+    "static/js/main.a7808f54.js"
   ]
 }
