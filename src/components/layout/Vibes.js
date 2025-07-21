@@ -7,36 +7,41 @@ import vibe4 from "../../img/vibe4.png";
 import vibe5 from "../../img/vibe5.png";
 import vibe6 from "../../img/vibe6.png";
 import vibe7 from "../../img/vibe7.png";
+import vibe8 from "../../img/vibe8.png";
 
 
 function VibesImg() {
  const vibesdata = [
     {
-      image: vibe1,
+      image: vibe8,
+      caption: ""
+    },
+    {
+      image: vibe7,
+      caption: ""
+    },
+    {
+      image: vibe6,
+      caption: ""
+    }, 
+    {
+      image: vibe5,
+      caption: ""
+    },
+    {
+      image: vibe4,
+      caption: ""
+    },
+    {
+      image: vibe3,
       caption: ""
     },
     {
       image: vibe2,
       caption: ""
     },
-    {
-      image: vibe3,
-      caption: ""
-    }, 
-    {
-      image: vibe4,
-      caption: ""
-    },
-    {
-      image: vibe5,
-      caption: ""
-    },
-    {
-      image: vibe6,
-      caption: ""
-    },
-    {
-      image: vibe7,
+   {
+      image: vibe1,
       caption: ""
     }
   ];
