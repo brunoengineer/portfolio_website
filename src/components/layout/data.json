@@ -2,8 +2,8 @@
   {
     "id": 1,
     "img": "/img/apiTestingAssistant.png",
-    "title": "AI API Testing Assistant",
-    "description": "I created this solution using Playwright to help QA Engineers test APIs more efficiently. It can be used for the creation of test cases efficiently.",
+    "title": "AI Copilot Used for Manual Testing",
+    "description": "I created this solution using Playwright to help Manual QA Engineers to document and execute tests. It can be used for the efficiently creation and prioritization of test cases.",
     "link": "https://github.com/BrunoWebDesigner/ManualTestGenerator/blob/main/README.md",
     "link2": "https://github.com/BrunoWebDesigner/ManualTestGenerator"
   },
