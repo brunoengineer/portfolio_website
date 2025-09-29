@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio_website/static/css/main.78b89665.css",
-    "main.js": "/portfolio_website/static/js/main.e2f482d0.js",
+    "main.js": "/portfolio_website/static/js/main.981431e6.js",
     "static/media/yolo.jpg": "/portfolio_website/static/media/yolo.6bc3e581dc595429cfe7.jpg",
     "static/media/hub88.jpg": "/portfolio_website/static/media/hub88.554b72c71749de97a54f.jpg",
     "static/media/myface.png": "/portfolio_website/static/media/myface.09ae901e12cfe6633ad7.png",
@@ -17,6 +17,7 @@
     "static/media/logo.png": "/portfolio_website/static/media/logo.43ac043cf45bf4112cda.png",
     "static/media/vibe8.png": "/portfolio_website/static/media/vibe8.cb8523f8654c0e7537ac.png",
     "static/media/vibe7.png": "/portfolio_website/static/media/vibe7.230dead48caca2571584.png",
+    "static/media/vibe9.png": "/portfolio_website/static/media/vibe9.0ed14bbd0433b753fffb.png",
     "static/media/vibe4.png": "/portfolio_website/static/media/vibe4.3354db51bb3752ac4df5.png",
     "static/media/vibe6.png": "/portfolio_website/static/media/vibe6.730519e853f0712c1ec4.png",
     "static/media/vibe2.png": "/portfolio_website/static/media/vibe2.105f79da8d1593f1a7b2.png",
@@ -39,10 +40,10 @@
     "static/media/roboto-greek-ext-500-normal.woff": "/portfolio_website/static/media/roboto-greek-ext-500-normal.eaa367bbd0b333a7f80b.woff",
     "index.html": "/portfolio_website/index.html",
     "main.78b89665.css.map": "/portfolio_website/static/css/main.78b89665.css.map",
-    "main.e2f482d0.js.map": "/portfolio_website/static/js/main.e2f482d0.js.map"
+    "main.981431e6.js.map": "/portfolio_website/static/js/main.981431e6.js.map"
   },
   "entrypoints": [
     "static/css/main.78b89665.css",
-    "static/js/main.e2f482d0.js"
+    "static/js/main.981431e6.js"
   ]
 }
