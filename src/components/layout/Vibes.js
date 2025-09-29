@@ -8,10 +8,15 @@ import vibe5 from "../../img/vibe5.png";
 import vibe6 from "../../img/vibe6.png";
 import vibe7 from "../../img/vibe7.png";
 import vibe8 from "../../img/vibe8.png";
+import vibe9 from "../../img/vibe9.png";
 
 
 function VibesImg() {
  const vibesdata = [
+    {
+      image: vibe9,
+      caption: ""
+    },
     {
       image: vibe8,
       caption: ""
