@@ -1,54 +1,62 @@
 [
   {
     "id": 1,
-    "img": "/img/apiTestingAssistant.png",
-    "title": "AI Copilot Used for Manual Testing",
-    "description": "I created this solution using Playwright to help Manual QA Engineers to document and execute tests. It can be used for the efficiently creation and prioritization of test cases.",
-    "link": "https://github.com/BrunoWebDesigner/ManualTestGenerator/blob/main/README.md",
-    "link2": "https://github.com/BrunoWebDesigner/ManualTestGenerator"
+    "img": "/img/decideAutomate.png",
+    "title": "Automation Decision Tool",
+    "description": "A React application that helps QA engineers decide whether a test should be automated or not based on a series of criteria questions.",
+    "link": "https://github.com/brunoengineer/decideAutomate/blob/main/README.md",
+    "link2": "https://brunoengineer.github.io/decideAutomate"
   },
   {
     "id": 2,
-    "img": "/img/qaKnowledgeHub.png",
-    "title": "My Software Testing Knowledge Hub",
-    "description": "A comprehensive hub where I share my knowledge and resources about software testing, including best practices, methodologies, and useful tools.",
-    "link": "https://github.com/BrunoWebDesigner/qaConcepts/blob/main/what_is_testing.md",
-    "link2": "https://github.com/BrunoWebDesigner/qaConcepts"
+    "img": "/img/apiTestingAssistant.png",
+    "title": "AI Copilot Used for Manual Testing",
+    "description": "I created this solution using Playwright to help Manual QA Engineers to document and execute tests. It can be used for the efficiently creation and prioritization of test cases.",
+    "link": "https://github.com/brunoengineer/ManualTestGenerator/blob/main/README.md",
+    "link2": "https://github.com/brunoengineer/ManualTestGenerator"
   },
   {
     "id": 3,
-    "img": "/img/postmanAutomation.png",
-    "title": "Signature Automation with Postman",
-    "description": "Guide on how to automate the SHA-256 signature process using Postman, which can be useful for automating API testing workflows.",
-    "link": "https://github.com/BrunoWebDesigner/postmanSignatureServer/blob/main/README.md",
-    "link2": "https://github.com/BrunoWebDesigner/postmanSignatureServer"
+    "img": "/img/qaKnowledgeHub.png",
+    "title": "My Software Testing Knowledge Hub",
+    "description": "A comprehensive hub where I share my knowledge and resources about software testing, including best practices, methodologies, and useful tools.",
+    "link": "https://github.com/brunoengineer/qaConcepts/blob/main/what_is_testing.md",
+    "link2": "https://github.com/brunoengineer/qaConcepts"
   },
   {
     "id": 4,
-    "img": "/img/ibm.png",
-    "title": "Fullstack Developer Course Project",
-    "description": "This project was developed during my Fullstack Developer course at IBM, where I applied various technologies and methodologies learned throughout the course.",
-    "link": "https://brunowebdesigner.github.io/paradise-nursery/",
-    "link2": "https://github.com/BrunoWebDesigner/paradise-nursery"
+    "img": "/img/postmanAutomation.png",
+    "title": "Signature Automation with Postman",
+    "description": "Guide on how to automate the SHA-256 signature process using Postman, which can be useful for automating API testing workflows.",
+    "link": "https://github.com/brunoengineer/postmanSignatureServer/blob/main/README.md",
+    "link2": "https://github.com/brunoengineer/postmanSignatureServer"
   },
   {
     "id": 5,
+    "img": "/img/ibm.png",
+    "title": "Fullstack Developer Course Project",
+    "description": "This project was developed during my Fullstack Developer course at IBM, where I applied various technologies and methodologies learned throughout the course.",
+    "link": "https://brunoengineer.github.io/paradise-nursery/",
+    "link2": "https://github.com/Brunoengineer/paradise-nursery"
+  },
+  {
+    "id": 6,
     "img": "/img/portfolioSite.png",
     "title": "My Portfolio",
     "description": "Project using React and other features like Material UI, BrowserRouter, AOS...",
     "link": "#Album",
-    "link2": "https://github.com/BrunoWebDesigner/portfolio_website.git"
-  },
-  {
-    "id": 6,
-    "img": "/img/MyaApp.png",
-    "title": "Mya's App",
-    "description": "I have developed a fully functional application using Bootstrap and Json specifically tailored for Streamer Mya and her viewers.",
-    "link": "https://brunowebdesigner.github.io/roletamyada/",
-    "link2": "https://drive.google.com/file/d/1Eg0rDWL_rml0sescCSsSGKC3ghmYxi0K/view?usp=drive_link"
+    "link2": "https://github.com/Brunoengineer/portfolio_website.git"
   },
   {
     "id": 7,
+    "img": "/img/MyaApp.png",
+    "title": "Mya's App",
+    "description": "I have developed a fully functional application using Bootstrap and Json specifically tailored for Streamer Mya and her viewers.",
+    "link": "https://brunoengineer.github.io/roletamyada/",
+    "link2": "https://drive.google.com/file/d/1Eg0rDWL_rml0sescCSsSGKC3ghmYxi0K/view?usp=drive_link"
+  },
+  {
+    "id": 8,
     "img": "/img/WorldTree.png",
     "title": "World Tree App",
     "description": "This was a UX Design case study where I created the design concept and idea for the app, during my course with the Google team.",
@@ -56,7 +64,7 @@
     "link2": "https://drive.google.com/file/d/1_EMJbTiBgaFWNQ0emJU5Bj8B3Fh0r2DP/view?usp=drive_link"
   },
   {
-    "id": 8,
+    "id": 9,
     "img": "/img/leocharadaSite.png",
     "title": "Leo Charada's Website",
     "description": "This was a UX Design case study where I created the design concept and idea for a branding website for Streamer Leo Charada.",
@@ -64,11 +72,11 @@
     "link2": "https://drive.google.com/file/d/1Qn8BktQOX9ibuHdlD3QKoYGl0tYavvLf/view?usp=drive_link"
   },
   {
-    "id": 9,
+    "id": 10,
     "img": "/img/cardGame.png",
     "title": "Card Game",
     "description": "This was a web application created to a Streamer.",
-    "link": "https://brunowebdesigner.github.io/genshinCardGame/",
-    "link2": "https://github.com/BrunoWebDesigner/genshinCardGame"
+    "link": "https://brunoengineer.github.io/genshinCardGame/",
+    "link2": "https://github.com/Brunoengineer/genshinCardGame"
   }
 ]
