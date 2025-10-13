@@ -4,8 +4,8 @@
     "img": "/img/decideAutomate.png",
     "title": "Automation Decision Tool",
     "description": "A React application that helps QA engineers decide whether a test should be automated or not based on a series of criteria questions.",
-    "link": "https://github.com/brunoengineer/decideAutomate/blob/main/README.md",
-    "link2": "https://brunoengineer.github.io/decideAutomate"
+    "link": "https://brunoengineer.github.io/decideAutomate",
+    "link2": "https://github.com/brunoengineer/decideAutomate/blob/main/README.md"
   },
   {
     "id": 2,
@@ -37,7 +37,7 @@
     "title": "Fullstack Developer Course Project",
     "description": "This project was developed during my Fullstack Developer course at IBM, where I applied various technologies and methodologies learned throughout the course.",
     "link": "https://brunoengineer.github.io/paradise-nursery/",
-    "link2": "https://github.com/Brunoengineer/paradise-nursery"
+    "link2": "https://github.com/brunoengineer/paradise-nursery"
   },
   {
     "id": 6,
@@ -45,7 +45,7 @@
     "title": "My Portfolio",
     "description": "Project using React and other features like Material UI, BrowserRouter, AOS...",
     "link": "#Album",
-    "link2": "https://github.com/Brunoengineer/portfolio_website.git"
+    "link2": "https://github.com/brunoengineer/portfolio_website.git"
   },
   {
     "id": 7,
